@@ -1,0 +1,3 @@
+**/target
+**/debug
+files/*/Cargo.lock
